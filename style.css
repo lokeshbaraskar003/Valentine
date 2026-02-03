@@ -81,3 +81,11 @@ button {
         transform: translateY(-100vh);
     }
 }
+.hint {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #ff6f9c;
+    font-style: italic;
+}
+
+
